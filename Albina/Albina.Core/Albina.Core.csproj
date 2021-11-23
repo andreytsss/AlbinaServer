@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{328EE7D5-B66E-4BD3-8359-BB68F0A02A95}</ProjectGuid>
+=======
+    <ProjectGuid>{6E0F52F6-A455-4F0D-8F2C-529C00B0CEA8}</ProjectGuid>
+>>>>>>> 60a97db319f80a3d5c2f7ba50d2f6c4d1ad23b18
     <OutputType>Exe</OutputType>
     <RootNamespace>Albina.Core</RootNamespace>
     <AssemblyName>Albina.Core</AssemblyName>
